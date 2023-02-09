@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caliphridwan
 - 👀 I’m interested in front-end and backend development
-- 🌱 I’m currently learning react and laravel
+- 🌱
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me ... twitter handle: @caliphRidwan
 
